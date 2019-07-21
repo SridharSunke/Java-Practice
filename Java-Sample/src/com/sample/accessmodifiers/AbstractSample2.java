@@ -1,10 +1,6 @@
 package com.sample.accessmodifiers;
 
-abstract class AbstractSample2 {
+abstract class AbstractSample2 extends AbstractSample{
 
-	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-
-	}
-
+	abstract void start();
 }
