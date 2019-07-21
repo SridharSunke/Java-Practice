@@ -19,7 +19,21 @@ public class InnerClassTest implements NestedInterface.InnerInterface{
 		
 		NestedInterface.InnerInterface nest=new InnerClassTest();
 		nest.msg();
+		
+		//we can call inetrface and superclass this way without impl it
+		 AnonymousInnerClass e=new AnonymousInnerClass(){  
 
-		}
+			@Override
+			public void msgInner() {
+			System.out.println("Test");
+			}  
+			 };  
+			 e.msgInner();  
+			 
+			 
+			 LocalInnerClass o = new LocalInnerClass();
+			 o.doStuff();
+	
+	}
 
 }

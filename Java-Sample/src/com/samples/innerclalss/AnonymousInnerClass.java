@@ -1,5 +1,7 @@
 package com.samples.innerclalss;
 
-public class AnonymousInnerClass {
+public interface AnonymousInnerClass {
+	
+	void msgInner();
 
 }
