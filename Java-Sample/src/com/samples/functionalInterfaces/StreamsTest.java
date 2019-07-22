@@ -64,7 +64,7 @@ public class StreamsTest {
 	    
 	    System.out.println(match);
 	    
-	    list.stream().
+	    
 	   
 
 	}
