@@ -1,5 +1,8 @@
 package com.samples.functionalInterfaces;
 
-public class CustomLamda {
+@FunctionalInterface
+public interface CustomLamda<T,T2> {
+	
+	T arthemeticOperation(T n ,T s);
 
 }
