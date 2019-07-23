@@ -1,4 +1,4 @@
-+package com.samples.string;
+package com.samples.string;
 
 public class PalindromeSample {
 
