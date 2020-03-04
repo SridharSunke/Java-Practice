@@ -17,9 +17,11 @@ public class ComparatorCollectionsSample {
 		hm.put("Hemanth", 3);
 		
 		
+		
 	    List<Entry<String, Integer>> entryList = new ArrayList<Entry<String, Integer>>(hm.entrySet());
 
 		Collections.sort(entryList,  valueComparator);
+		
 
 	}
 	
