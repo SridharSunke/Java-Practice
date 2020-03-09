@@ -1,0 +1,8 @@
+wild card?
+
+2 types of wild cards
+upperbound for extending 
+lower bound for super
+unbound sample is print arraylist elements of all types
+
+T,E,KV samples
