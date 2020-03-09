@@ -1,0 +1,4 @@
+marker interface is emplty interface
+
+functional interface only one abstract method
+
