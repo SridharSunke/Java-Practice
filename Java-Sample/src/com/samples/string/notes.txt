@@ -1,0 +1,13 @@
+String builder and string buffer, when to use which detailed samples
+
+string reverse with recurrsion
+check programme
+
+problem with str=str+"some string";
+
+String object as array
+
+null check
+isEmpty()--internaly check for null and length
+capital small changes
+equalsIgnoreCase()
