@@ -1,0 +1,45 @@
+//we cannot create object for interface and abstract class
+
+why private methods are intoduced in java9 in interface?
+
+a)Using private methods, now encapsulation is possible in interfaces as well.
+
+Static and defaults methods since Java 8
+Private methods since java 9
+
+
+q)what is diff between classes and interfaces from java9
+
+interface are used to do multiple inheritance
+classes are used to maintain state
+
+also interfaces cannot have fields and constructor
+
+
+q)two seprate class with two diff methods, how to use both methods in single class
+
+3 ways
+
+The first is aggregation: make a class that takes those two activities as fields.
+
+The second is to use interfaces.
+
+The third is to rethink your design
+
+
+q)opps concepts how implemented in java
+
+abstarction---previous quetions sample
+encapsulatin
+polymorfisam--run time--overloading
+			comple time-overriding
+			
+inheritance--abstract class and interface
+
+
+aggregation--is a--constructor pass
+composition--has a----private varaible
+assosiation---usea a--method
+
+			
+
