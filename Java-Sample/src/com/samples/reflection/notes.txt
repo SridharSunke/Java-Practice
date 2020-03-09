@@ -1,0 +1,2 @@
+ introspection is the ability of a program to examine the type or properties of an object at runtime.
+  Reflection is the ability of a program to examine and modifythe type or properties of an object at runtime
