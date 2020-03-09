@@ -1,0 +1,4 @@
+One major change is that you don’t need to compile the java source file with javac tool first. 
+You can directly run the file with java command and it implicitly compiles.
+
+
