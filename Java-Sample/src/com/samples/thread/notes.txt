@@ -1,0 +1,8 @@
+Does join executes one after other?
+
+programme to make a dead lock?
+
+diff between executor and thread group
+
+
+what is blocking queue
