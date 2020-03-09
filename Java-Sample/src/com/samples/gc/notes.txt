@@ -1,0 +1,12 @@
+Memory management in java
+
+parrlle mark sweep, which one used in java8
+
+statcover flow how to increase?
+
+memory out of bound exp how to handle ?
+
+threads causing memory leak how to handle that
+
+memory leak issues
+
