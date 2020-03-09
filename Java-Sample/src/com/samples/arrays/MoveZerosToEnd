@@ -1,1 +1,26 @@
 
+package com.samples.arrays;
+
+import java.util.Arrays;
+
+public class MoveZerosToEnd {
+
+	static int[] str= {1,2,4,0,3,0,50,11,2,34,0};
+	
+
+	public static void main(String[] args) {
+	
+		//considering unique or sorted
+		for(int i=0; i<str.length;i++){
+			if(str[i]!=str[i]){
+				System.out.println("NotEqual");
+			}
+			
+		}
+		
+		
+		//using streams		
+		//Arrays.stream(str).filter(s -> s.contains("S")).forEach(System.out::println);
+		
+	}
+}
