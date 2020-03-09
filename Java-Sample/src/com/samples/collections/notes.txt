@@ -1,0 +1,38 @@
+when to use which collection,why collections,map of entire coll
+
+
+internal impl of
+hashmap--bucket,how element stores,own impl,
+hashset --what stores for key value and node
+concurrent hashmap impl
+linked hash map
+arraylist--internal impl without generics  own impl, with generics how impl
+queue--own implementation, inteernal impl 
+stack-own impl, intrk impln
+
+why we cant delete in iterator
+diff betwwen ilterator, spliterator and list itterator with samples
+//map,list,set samples
+
+comperator and comparable samples-new samples
+
+
+HashMap – use this implementation if the order of items while iterating is not important to you. HashMap has better performance compared to TreeMap and LinkedHashMap
+
+TreeMap – is ordered and sorted but slower compared to HashMap. TreeMap has ascending order of keys, according to its Comparator
+
+LinkedHashMap – it orders items by key during insertion
+
+Choose the right Java List interface
+ArrayList – items are ordered during insertion. Search operations on ArrayLists is faster compared to search operations on LinkedLists
+
+LinkedList – has fast adding to the start of the list, and fast deletion from the interior via iteration
+
+Choose the right Java Set interface
+HashSet – use this implementation if the order of items while iterating is not important to you. HashSet has better performance compared to TreeSet and LinkedHashSet
+
+LinkedHashSet – it orders items during insertion
+
+TreeSet – has ascending order of keys, according to its Comparator
+
+ 
