@@ -1,0 +1,10 @@
+LAMBDA USES
+
+
+
+Advantages of lambda expressions
+
+    It reduces the lines of code.
+    It supports sequential and parallel execution by passing behavior in methods with collection stream API.
+    Using Stream API and lambda expression we can achieve higher efficiency (parallel execution) in the case of bulk operations on collections.
+
