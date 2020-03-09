@@ -1,0 +1,14 @@
+what is serialVersionUID
+
+a)
+
+what is deep copy and shallow copy in serialization?
+
+
+what is diff between serailzation and externalization
+
+
+if parent serealized does child will also
+
+
+
